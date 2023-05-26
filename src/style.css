@@ -1,10 +1,10 @@
 h1{
-  font-family: 'Permanent Marker', cursive;
-  color: #dc2f02;
+  font-family: 'Poppins', sans-serif;
+  color: #425F57;
 }
 
 .App{
-  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .filterButtons {
@@ -13,7 +13,7 @@ h1{
 
 .edit{
   border: none;
-  color: #e85d04;
+  color: #526D82;
 }
 
 .check{
@@ -35,10 +35,20 @@ textarea{
 
 .primary{
   color: #fff;
-  background-color: #e85d04;
+  background-color: #3C6255 ;
+}
+
+.primary :hover{
+  color: #fff;
+    background-color: #5A8F7B ;
 }
 
 .secondary{
   color: #fff;
-  background-color: #03071e;
+  background-color: #99A98F  ;
+}
+
+.secondary :hover{
+  color: #fff;
+    background-color: #5A8F7B ;
 }
