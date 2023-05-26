@@ -45,20 +45,21 @@ textarea{
 
 .secondary{
   color: #fff;
-  background-color: #99A98F  ;
+  background-color: #99A98F;
 }
 
 .secondary :hover{
   color: #fff;
-    background-color: #5A8F7B ;
+    background-color: #5A8F7B;
 }
 
 .btn-success{
   color: #fff;
-  background-color: #99A98F  ;
+  background-color: #99A98F;
+  border: #99A98F ;
 }
 
 .btn-success :hover{
   color: #fff;
-    background-color: #5A8F7B ;
+    background-color: #5A8F7B;
 }
